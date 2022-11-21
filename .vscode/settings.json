@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["solium"],
+  "solidity.compileUsingRemoteVersion": "v0.8.7+commit.e28d00a7",
+  "solidity.packageDefaultDependenciesContractsDirectory": "",
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
+  "solidity.defaultCompiler": "remote"
+}
