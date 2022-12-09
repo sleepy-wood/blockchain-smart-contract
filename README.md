@@ -62,7 +62,7 @@
 
 1. Clone the repo
   ```bash
-  git clone https://github.com/sleepy-wood/blockchain-sample.git
+  git clone https://github.com/sleepy-wood/blockchain-smart-contract.git
   ```
 2. Install NPM packages
   ```bash
