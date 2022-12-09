@@ -51,7 +51,11 @@
 
 1. npm
   ```bash
-  npm install npm@latest -g
+  npm i -g npm@latest
+  ```
+2. truffle
+  ```bash
+  npm install -g truffle
   ```
 
 ### Installation
@@ -66,7 +70,7 @@
   ```
 3. Run App
   ```bash
-  node nodeJSCoin
+  truffle compile
   ```
 
 <!-- LICENSE -->
