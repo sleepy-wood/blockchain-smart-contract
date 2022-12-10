@@ -38,7 +38,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- 스마트 계약(smart contract)을 통해 자신의 고유한 나무를 NFT화 하고, NFT Marketplace를 통해 판매
+<div align="center">
+  <img src="https://github.com/sleepy-wood/blockchain-smart-contract/blob/main/web3.0.drawio.png" alt="project" width=480 />
+</div>
+
+1) 디앱(DApp, Decentralized Application)
+    - 디앱(DApp, Decentralized Application)이란 탈중앙화 애플리케이션의 약자로 탈중앙화된 블록체인 플랫폼을 기반으로 작동하는 앱을 말한다.
+    - 슬리피우드 어플리케이션의 크리에이터는 자신의 창작물을 탈중앙화된 쇼핑몰에 NFT화하여 업로드하고 이를 통해 유저와 유저가 직접 거래할수 있다.
+
+2) NFT, 디지털 아트(Digital Arts)
+    - NFT가 가장 활발히 사용되고 있는 분야 중 하나가 바로 미술이다.
+    - 디지털 아트는 이미지 등의 디지털 팡리 형태로 존재하는데, 이러한 파일은 너무도 쉽게 복제가 가능하며 원본과 복제본을 구분하는 것이 쉽지않다. 
+    - 우리의 어플리케이션은 사용자의 건강 데이터를 기반으로 자라난 예술성을 띈 나무를 NFT화하여 자신만의 고유성을 지니게 하고자 하였다.
 
 ### Built With
 
